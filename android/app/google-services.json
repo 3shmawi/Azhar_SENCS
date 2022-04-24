@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441203479321",
+    "project_id": "al-azhar-sencs",
+    "storage_bucket": "al-azhar-sencs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441203479321:android:66cc75601e82e268cceb88",
+        "android_client_info": {
+          "package_name": "com.second.azhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441203479321-144397ie5bdr9k65ion06ec9qdhsk6pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.second.azhar",
+            "certificate_hash": "67274bbf8ecdc29c340b60733b6fd6e69561b081"
+          }
+        },
+        {
+          "client_id": "441203479321-ituujt7fbqum3mthd7k4ote8r9lmn5g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6yJsj9rCQjQUvySeKplW7LjLx28zQho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441203479321-ituujt7fbqum3mthd7k4ote8r9lmn5g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
